@@ -1,0 +1,9 @@
+##Python template
+#Byte-compile
+_pycache_/
+*.py[cod]
+##file
+docker-compose.yaml
+###dir
+log/
+xyeTa
